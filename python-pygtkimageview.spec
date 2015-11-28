@@ -6,7 +6,7 @@ Summary:	PyGtkImageView - image viewer widget for PyGTK
 Summary(pl.UTF-8):	PyGtkImageView - widget przeglądarki obrazów dla PyGTK
 Name:		python-pygtkimageview
 Version:	1.2.0
-Release:	3
+Release:	4
 License:	LGPL
 Group:		Libraries/Python
 Source0:	http://trac.bjourne.webfactional.com/chrome/common/releases/pygtkimageview-%{version}.tar.gz
